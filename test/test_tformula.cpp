@@ -1,5 +1,4 @@
 #include "TFormula.h"
-#include "TFormula.cpp"
 #include <gtest.h>
 
 TEST(TFormulaTest, can_create_formula_from_string_without_prohibited_symbols)

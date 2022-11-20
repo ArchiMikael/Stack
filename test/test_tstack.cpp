@@ -1,5 +1,4 @@
 #include "TStack.h"
-#include "TStack.cpp"
 #include <gtest.h>
 
 using testing::Types;
